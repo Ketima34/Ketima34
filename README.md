@@ -68,7 +68,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FFD93D?style=for-the-badge&logo=postman&logoColor=black)
 
 ---
-
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ketima34&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF5C8A&text_color=FFD93D&icon_color=3DA9FC&ring_color=FF5C8A" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketima34&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF5C8A&text_color=FFD93D" />
+<img src="https://streak-stats.demolab.com?user=Ketima34&hide_border=true&background=0d1117&ring=FF5C8A&fire=FFD93D&currStreakLabel=3DA9FC&currStreakNum=FFD93D&sideNums=FFD93D&sideLabels=FF5C8A&dates=3DA9FC" />
+</div>
+---
 
 ## 📫 Let's Connect
 
