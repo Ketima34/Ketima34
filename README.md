@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C8A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+AWS+Serverless;Flutter+Mobile+Developer+%F0%9F%93%B1;Exploring+Deep+Learning+%26+Sign+Language+AI+%F0%9F%A4%9F;Cyber+Security+%2B+Computer+Vision+enthusiast+%F0%9F%94%90)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FFD93D&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=FF5C8A&labelColor=0d1117&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Ketima34&color=FFD93D&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Ketima34?style=for-the-badge&color=FF5C8A&labelColor=0d1117&logo=github)
 
 </div>
 
